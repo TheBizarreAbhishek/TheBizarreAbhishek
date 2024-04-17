@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I'm Abhishek 👋
 
-<!--
-**TheBizarreAbhishek/TheBizarreAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Top Lanuages
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBizarreAbhishek&theme=radical&layout=compact)](https://github.com/Schwartzblat/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheBizarreAbhishek&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
+
+<a><h2>🏆 Github Profile Trophy</h2></a>
+<a>
+  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=TheBizarreAbhishek&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+## Number Of Visitors 
+![Visitor Count](https://profile-counter.glitch.me/TheBizarreAbhishek/count.svg)
