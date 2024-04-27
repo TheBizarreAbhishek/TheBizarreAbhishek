@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TheBizarreAbhishek&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
 
 ## My Contribution Graph
-Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheBizarreAbhishek&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+Contribution Graph"src="https://github-readme-activity-graph.vercel.app/graph?username=TheBizarreAbhishek&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
   <img width=1400 src="https://github-profile-trophy.vercel.app/?username=TheBizarreAbhishek&column=8&theme=gruvbox&no-frame=true"/>
