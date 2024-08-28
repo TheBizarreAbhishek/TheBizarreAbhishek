@@ -1,5 +1,5 @@
 # Hi I'm Abhishek 👋
-
+formerly a student but passionate about programming I love astronomy and terminal 🙃
 # Top Lanuages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBizarreAbhishek&theme=radical&layout=compact)](https://github.com/Schwartzblat/github-readme-stats)
