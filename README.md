@@ -24,3 +24,5 @@ contact me on [telegram](https://t.me/dhongibaba_bot)
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
+
+<meta name="google-site-verification" content="loY9vsGmselpKuyy2aOLtTCezahgqFcdWVRT2Q5m64g" />
