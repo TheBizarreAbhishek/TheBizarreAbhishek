@@ -1,6 +1,10 @@
 # Hi I'm Abhishek 👋
 formerly a student but passionate about programming I love astronomy and terminal 🙃
-contact me on [telegram](https://t.me/dhongibaba_bot)
+
+## Where to Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dhongibaba_bot)
+
+## Something Special
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abouttoconfess)
 # Top Lanuages
 
