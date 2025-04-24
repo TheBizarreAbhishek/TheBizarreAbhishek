@@ -4,8 +4,6 @@ formerly a student but passionate about programming I love astronomy and termina
 ## Where to Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dhongibaba_bot)
 
-## Something Special
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abouttoconfess)
 # Top Lanuages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBizarreAbhishek&theme=radical&layout=compact)](https://github.com/Schwartzblat/github-readme-stats)
