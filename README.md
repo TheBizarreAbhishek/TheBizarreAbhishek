@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,17,23&height=200&section=header&text=Abhishek%20Babu&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Kernel%20Developer%20%7C%20Android%20Modder%20%7C%20Stargazer%20%F0%9F%8C%8C&descFontSize=19&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,17,23&height=200&section=header&text=Abhishek%20Babu&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Kernel%20Developer%20%7C%20Android%20Modder%20%7C%20Stargazer%20%F0%9F%8C%8C&descFontSize=19&descAlignY=62" width="100%" alt="Abhishek Babu - TheBizarreAbhishek" />
+
+  <h1>Hi, I'm Abhishek Babu 👋</h1>
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/TheBizarreAbhishek">
@@ -31,7 +33,7 @@
 ╰─$ neofetch --abhishek
 ```
 
-- 🚀 Passionate programmer specialized in **Android Kernel development**, custom device trees, and low-level system optimizations.
+- 🚀 Hey there! I'm **Abhishek Babu** (popularly known online as **TheBizarreAbhishek**). Passionate programmer specialized in **Android Kernel development**, custom device trees, and low-level system optimizations.
 - ⚡ Creator of popular **Magisk & KernelSU modules**, enabling flagship features and performance enhancements on Samsung devices.
 - 🤖 Building AI bots, CI/CD automated APK/module pipelines, and open-source utility tools.
 - 🔭 Stargazer & Astronomy enthusiast — fascinated by deep sky astrophotography, astrophysics, and cosmic mechanics.
@@ -123,4 +125,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,17,23&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
 
+<!-- SEO Meta Tags for Google Search Indexing -->
+<meta name="description" content="Official GitHub profile and portfolio of Abhishek Babu (TheBizarreAbhishek) - Android Kernel Developer, Magisk & KernelSU module creator." />
+<meta name="keywords" content="Abhishek Babu, TheBizarreAbhishek, Abhishek Babu GitHub, Android Kernel Developer, Samsung Exynos Kernel" />
+<meta name="author" content="Abhishek Babu" />
 <meta name="google-site-verification" content="loY9vsGmselpKuyy2aOLtTCezahgqFcdWVRT2Q5m64g" />
