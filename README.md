@@ -64,14 +64,14 @@
 
 <div align="center">
 
-  <!-- Stats Cards Grid -->
+  <!-- Stats Cards Grid (Cached daily via GitHub Actions for 100% uptime & zero rate limits) -->
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheBizarreAbhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=F7768E&text_color=A9B1D6&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/output/github-stats.svg" alt="GitHub Stats" width="410" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheBizarreAbhishek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=A9B1D6" alt="Top Languages" width="370" />
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/output/top-langs.svg" alt="Top Languages" width="370" />
       </td>
     </tr>
   </table>
@@ -95,34 +95,12 @@
 
 ### 🌟 Featured Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/TheBizarreAbhishek/android_kernel_samsung_s5e8835">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheBizarreAbhishek&repo=android_kernel_samsung_s5e8835&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=F7768E&text_color=A9B1D6" alt="android_kernel_samsung_s5e8835" width="390" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TheBizarreAbhishek/M35-Feature-Enhancer">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheBizarreAbhishek&repo=M35-Feature-Enhancer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=F7768E&text_color=A9B1D6" alt="M35-Feature-Enhancer" width="390" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/TheBizarreAbhishek/morphe-builder">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheBizarreAbhishek&repo=morphe-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=F7768E&text_color=A9B1D6" alt="morphe-builder" width="390" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TheBizarreAbhishek/AutoResponder">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheBizarreAbhishek&repo=AutoResponder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=F7768E&text_color=A9B1D6" alt="AutoResponder" width="390" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+| Repository | Description | Key Tech | Stars |
+| :--- | :--- | :--- | :---: |
+| [**`android_kernel_samsung_s5e8835`**](https://github.com/TheBizarreAbhishek/android_kernel_samsung_s5e8835) | 📱 Samsung kernel source for s5e8835 devices (Exynos 1380 / Galaxy M35) | `C` `Kernel` `Exynos` | [![Stars](https://img.shields.io/github/stars/TheBizarreAbhishek/android_kernel_samsung_s5e8835?style=flat-square&color=70A5FD)](https://github.com/TheBizarreAbhishek/android_kernel_samsung_s5e8835) |
+| [**`M35-Feature-Enhancer`**](https://github.com/TheBizarreAbhishek/M35-Feature-Enhancer) | ⚡ Magisk / KernelSU module enabling flagship features on M35 & F35 | `Shell` `Magisk` `KSU` | [![Stars](https://img.shields.io/github/stars/TheBizarreAbhishek/M35-Feature-Enhancer?style=flat-square&color=70A5FD)](https://github.com/TheBizarreAbhishek/M35-Feature-Enhancer) |
+| [**`morphe-builder`**](https://github.com/TheBizarreAbhishek/morphe-builder) | 🛠️ Automated Magisk module & APK builder for patched Android apps | `Shell` `CI/CD` `Android` | [![Stars](https://img.shields.io/github/stars/TheBizarreAbhishek/morphe-builder?style=flat-square&color=70A5FD)](https://github.com/TheBizarreAbhishek/morphe-builder) |
+| [**`AutoResponder`**](https://github.com/TheBizarreAbhishek/AutoResponder) | 🤖 AI-powered WhatsApp automated response daemon | `Python` `AI` `Automation` | [![Stars](https://img.shields.io/github/stars/TheBizarreAbhishek/AutoResponder?style=flat-square&color=70A5FD)](https://github.com/TheBizarreAbhishek/AutoResponder) |
 
 ---
 
@@ -132,7 +110,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/main/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/TheBizarreAbhishek/TheBizarreAbhishek/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
