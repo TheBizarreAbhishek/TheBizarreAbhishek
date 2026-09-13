@@ -117,11 +117,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/TheBizarreAbhishek">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </a>
-
-  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22+%E2%80%94+Carl+Sagan;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;%22The+cosmos+is+within+us.+We+are+made+of+star-stuff.%22+%E2%80%94+Carl+Sagan" alt="Cosmic & Dev Quotes" />
 
   <!-- Footer Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,17,23&height=100&section=footer" width="100%" alt="Footer Banner" />
