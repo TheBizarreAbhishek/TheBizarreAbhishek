@@ -117,7 +117,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=3500&pause=2000&color=70A5FD&center=true&vCenter=true&multiline=true&width=500&height=75&lines=%E2%80%9CSab+Moh+Maya+Hai...%E2%80%9D;%E2%80%94+by+Abhishek+Babu+%F0%9F%99%83" alt="Sab Moh Maya Hai... - by Abhishek Babu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3500&pause=2000&color=70A5FD&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%E2%80%9CSab+Moh+Maya+Hai...%E2%80%9D;%E2%80%94+by+Abhishek+Babu+%F0%9F%99%83" alt="Sab Moh Maya Hai... - by Abhishek Babu" />
 
   <!-- Footer Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,17,23&height=100&section=footer" width="100%" alt="Footer Banner" />
