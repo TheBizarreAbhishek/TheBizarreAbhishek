@@ -44,7 +44,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,java,kotlin,linux,android,git,githubactions,docker,arch&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,java,kotlin,linux,androidstudio,git,githubactions,docker,arch&theme=dark" alt="Tech Stack" />
 
   <br/><br/>
 
