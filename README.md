@@ -15,8 +15,8 @@
   <!-- Quick Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TheBizarreAbhishek&label=PROFILE+VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
-    <a href="https://t.me/bizarreverse" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-bizarreverse-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+    <a href="https://t.me/seedhepyaar" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
     </a>
     <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/github/stars/TheBizarreAbhishek?style=for-the-badge&logo=github&color=343A40" alt="GitHub Stars" />
